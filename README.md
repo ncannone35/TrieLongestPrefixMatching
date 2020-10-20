@@ -1,5 +1,6 @@
 # TrieLongestPrefixMatching
  Implementation of an efficient trie data structure for Longest Prefix Matching.
+
 Contributor: Nick Cannone
 
 ncannone35@gmail.com
